@@ -10,3 +10,4 @@ Key features include:
 
 This dashboard provides a comprehensive view of mobile usage patterns, helping uncover valuable insights into user behavior and device performance.
 
+![Dashboard](https://github.com/user-attachments/assets/118c9205-8b82-49a0-8aa0-cf459962ba8c)
